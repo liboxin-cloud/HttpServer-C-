@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\vs编程\MutiThreadPool_HttpServer_Demo\MutiThreadPool_HttpServer_Demo\源.cpp(25,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  MutiThreadPool_HttpServer_Demo.vcxproj -> D:\vs编程\MutiThreadPool_HttpServer_Demo\x64\Debug\MutiThreadPool_HttpServer_Demo.exe
